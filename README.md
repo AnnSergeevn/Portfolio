@@ -1,6 +1,5 @@
 # Колесникова Анна Сергеевна
 
-![](https://github.com/AnnSergeevn/Portfolio/blob/main/photo_2023-10-17_22-08-43.jpg)
 <img src="https://github.com/AnnSergeevn/Portfolio/blob/main/photo_2023-10-17_22-08-43.jpg" width="200" height="200"/>
 
 
