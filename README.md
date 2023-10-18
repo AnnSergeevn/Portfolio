@@ -1,6 +1,6 @@
 # Колесникова Анна Сергеевна
 
-![][logo]
+![](https://github.com/AnnSergeevn/Portfolio/blob/main/photo_2023-10-17_22-08-43.jpg)
 
 
 
